@@ -1,5 +1,6 @@
 ---
-name: Feature request
+name: drramming
+request find password
 about: Suggest an idea for this project
 title: ''
 labels: ''
